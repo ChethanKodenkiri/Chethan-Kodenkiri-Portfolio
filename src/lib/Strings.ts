@@ -1,0 +1,20 @@
+export const Strings ={
+    DARK_MODE_TOGGLE_WARNING : "Welcome! You can toggle dark mode on or off.",
+    CK:"CK",
+    CHETHAN_KODENKIRI:"Chethan Kodenkiri",
+    SSE:"Senior Software Engineer",
+    DISSMISS:"Dismiss",
+    ABOUT_ME:"About Me",
+    DESCRIPTION:`I'm a passionate developer with a focus on crafting modern, scalable, 
+                and user-centric web applications. With hands-on experience across both frontend and backend technologies, 
+                I enjoy building intuitive interfaces with React & TypeScript, 
+                and robust backend systems using tools like Node.js, Express, and modern databases.`,
+    SKILLS:"Skills",
+    EXP:"Experience",
+    PROJECTS:"Featured Projects",
+    VIEW_PROJECT:"View Project",
+    CERT:"Certifications",
+    ISSUED_BY:"Issued by:",
+    VIEW_CERT:"View Certificate",
+    FOOTER:"2025 Chethan Kodenkiri. All rights reserved."
+}
