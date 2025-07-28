@@ -495,7 +495,7 @@ const handleScroll = () => {
 
 const animateSkills = () => {
   skills.forEach((skill) => {
-    const targetLevel = Math.floor(Math.random() * 21) + 60; // Random number between 60 and 80
+    const targetLevel = Math.floor(Math.random() * 21) + 60; 
     const interval = setInterval(() => {
       if (skillLevels.value[skill.name] < targetLevel) {
         skillLevels.value[skill.name]++;
