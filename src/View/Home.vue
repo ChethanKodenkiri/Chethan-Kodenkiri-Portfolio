@@ -145,7 +145,7 @@
               <SquareCode class="w-6 h-6 md:w-8 md:h-8" />
             </a>
             <a
-              href="www.linkedin.com/in/chethan-kodenkiri"
+              href="https://www.linkedin.com/in/chethan-kodenkiri/"
               target="_blank"
               rel="noopener noreferrer"
               class="text-muted-foreground hover:text-primary transition-colors"
